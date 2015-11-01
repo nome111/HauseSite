@@ -28,6 +28,7 @@ center {
 </style>
 </head>
 <body>
+
 <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -54,51 +55,63 @@ center {
 <!--h1><b></b></h1> 
 <h3> <a href="https://github.com/renancunha33"><i><font color="#81D4FA">GitHub de Renan</font></i></a></h3-->
 </center> <br> <br> 
-
+<div class="container">
 <b>	Objetivo Profissional:</b>  
 <br> 
-Trabalhar no ramo de T.I. Como analista ou desenvolvedor de sistemas. Tenho muito interesse em aprender mais sobre Sistemas operacionais (Windows, Linux e Unix).<br> 
-<br> 
+<i><h6><b>Trabalhar no ramo de T.I. Como analista ou desenvolvedor de sistemas( de preferência mobile). Tenho muito interesse em aprender mais sobre Sistemas operacionais (Windows, Linux e Unix).</h6></b></i> 
+
 <b>	Histórico Escolar:</b> <br> 
 <br> 
-• Ensino médio (de 1° a 3° ano): ETEC de Cubatão<br> 
-• Cursando Curso superior em Analise e desenvolvimento de sistemas: Fatec Rubens Lara – campus: Santos (desde Agosto/2012)<br> 
-<br> 
+ <ul class="list-group">
+        <li class="list-group-item">• Ensino médio (de 1° a 3° ano): ETEC de Cubatão
+        </li>
+        <li class="list-group-item">• Cursando Curso superior em Analise e desenvolvimento de sistemas: Fatec Rubens Lara – campus: Santos (desde Agosto/2012)
+        </li>
+ </ul>
 <b>	Cursos:</b><br> 
 <br> 
-• Técnico   em   informática   – ETEC   de   Cubatão-   Ext.   Afonso   Schimidt(concluído em 30 de Junho de 2012)<br> 
-• Curso   profissionalizante   de   rotinas   administrativas   pela   Fabrica   da comunidade de Cubatão (concluído em 20 de abril de 2011)<br> 
-• Inglês (de 2008 até 2011) – H2O international English School<br> 
+<ul class="list-group">
+<li class="list-group-item">• Técnico   em   informática   – ETEC   de   Cubatão-   Ext.   Afonso   Schimidt(concluído em 30 de Junho de 2012)
+</li>
+<li class="list-group-item">• Curso   profissionalizante   de   rotinas   administrativas   pela   Fabrica   da comunidade de Cubatão (concluído em 20 de abril de 2011)
+</li>
+<li class="list-group-item">• Inglês (de 2008 até 2011) – H2O international English School 
+</li>
+</ul>
 <br> 
 <b>	Experiências Técnicas:</b> <br> 
 <br> 
-• Analista de sistemas e programador do TCC do curso técnico em informática, projeto “Mind Manager”<br> 
-• Campeão do 2º desafio de programação da Etec de Cubatão (ano de2011)<br> 
-• Projeto Empresarial de desenvolvimento Web/Mobile – Hause(Fevereiro de 2015 a atualmente)<br> 
-• Aplicativo Android para o site Diolinux.com.br<br> 
+<ul class="list-group">
+<li class="list-group-item">• Analista de sistemas e programador do TCC do curso técnico em informática, projeto “Mind Manager”</li>
+<li class="list-group-item">• Campeão do 2º desafio de programação da Etec de Cubatão (ano de2011)</li> 
+<li class="list-group-item">• Projeto Empresarial de desenvolvimento Web/Mobile – Hause(Fevereiro de 2015 a atualmente)</li>
+<li class="list-group-item">• Aplicativo Android para o site Diolinux.com.br</li>
+</ul>
 <br> 
 <b>	Experiências internacionais:</b> <br> 
 <br> 
-• Canadá (de 6/10/2011 a 16/10/2011) – Intercâmbio esportivo/cultural para treinamento de Judo e disputa do “Quebec Open”.<br> 
+<ul class="list-group">
+<li class="list-group-item">• Canadá (de 6/10/2011 a 16/10/2011) – Intercâmbio esportivo/cultural para treinamento de Judo e disputa do “Quebec Open”.</li></ul> 
 <br> 
 <b>	Resumo de aptidões:</b> <br> 
 <br> 
-
-• Noções de informática (Redes de computadores, ambientes Windows,Linux, MS-DOS, Mac OSX, IBM AIX; Libreoffice e MS Office, mySQL,HTML, PHP e Java);<br> 
-• Noções   intermediárias   de   Adobe   Photoshop,   GIMP,   Dreamweaver   e Premiere;<br> 
-• Desenvolvimento Android(xml, manipulação de Activitys, Fragments e o básico de SQLite);<br> 
-• Bom raciocínio lógico;<br> 
-• Inglês avançado;<br> 
-• Profissionalismo, disciplina e Respeito;<br> 
+<ul class="list-group">
+<li class="list-group-item">• Noções de informática (Redes de computadores, ambientes Windows,Linux, MS-DOS, Mac OSX, IBM AIX; Libreoffice e MS Office, mySQL,HTML, PHP e Java);</li>
+<li class="list-group-item">• Noções   intermediárias   de   Adobe   Photoshop,   GIMP,   Dreamweaver   e Premiere;</li>
+<li class="list-group-item">• Desenvolvimento Android(xml, manipulação de Activitys, Fragments e o básico de SQLite);</li> 
+<li class="list-group-item">• Bom raciocínio lógico;</li>
+<li class="list-group-item">• Inglês avançado;</li>
+<li class="list-group-item">• Profissionalismo, disciplina e Respeito;</li></ul>
 <br> 
 <b>	Histórico profissional:</b> <br> 
 <br> 
-• Estagiário de Analise de suporte a Sistemas Distribuídos – TIVOLI: IBM Brasil (de Abril/2014 a atualmente)<br> 
-• Estagiário   de   informática:   Documental   Soluções   Empresariais   (de Abril/2012 a julho/2012)<br> 
-• Estagiário de informática: ETEC Aristóteles Ferreira (de janeiro/2013 à Abril/2014)<br> 
-• Técnico em Informática Autônomo (de junho de 2011 à 2014)<br> 
-• Instrutor particular de informática Básica para a 3ª idade (de janeiro/2011 à Julho\2011)<br> 
-
+<ul class="list-group">
+<li class="list-group-item">• Estagiário de Analise de suporte a Sistemas Distribuídos – TIVOLI: IBM Brasil (de Abril/2014 a atualmente)</li>
+<li class="list-group-item">• Estagiário   de   informática:   Documental   Soluções   Empresariais   (de Abril/2012 a julho/2012)</li>
+<li class="list-group-item">• Estagiário de informática: ETEC Aristóteles Ferreira (de janeiro/2013 à Abril/2014)</li> 
+<li class="list-group-item">• Técnico em Informática Autônomo (de junho de 2011 à 2014)</li> 
+<li class="list-group-item">• Instrutor particular de informática Básica para a 3ª idade (de janeiro/2011 à Julho\2011)</li></ul>
+</div>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
