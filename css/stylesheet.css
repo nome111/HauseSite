@@ -1,5 +1,6 @@
 body {
         font-family: 'Roboto', sans-serif;
+        
 }
 
 
@@ -29,17 +30,17 @@ body {
 #jumbotron_home{
 	width: 1000px;
 	background-color: rgba(255,255,255,0);
-	/*background-color: #4169e1;*/
 	height: 200px;
     margin: 0 auto;
     margin-top: 200px;
     text-decoration: none;
+    color: #fff;
 }
 
 
 #botao_home{
 	border-radius: 10px;
-	color: #000;
+	color: #fff;
 	text-decoration: none;
 	border: solid #fff;
 	margin-top: -10px;
@@ -49,7 +50,7 @@ body {
 
 
 #geral{
-	background: url("/images/imagem_mao.jpg") center center no-repeat;
+	background: url("/images/imagem_mao2.jpg") center center no-repeat;
 	overflow: hidden;
 	background-size: cover;
 	max-width: 100%;
