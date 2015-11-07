@@ -16,7 +16,7 @@ body {
 }
 
 .navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
+    color: #000 !important;
 }
 
 .navbar-nav li a:hover, .navbar-nav li a:active {
@@ -34,7 +34,7 @@ body {
     margin: 0 auto;
     margin-top: 200px;
     text-decoration: none;
-    color: #fff;
+    color: #000;
 }
 
 
@@ -49,9 +49,10 @@ body {
 
 
 
-#geral{
-	background: url("/images/imagem_mao2.jpg") center center no-repeat;
-	overflow: hidden;
+#back{
+	background: url("/imagem_mao2.jpg") center center;
+	background-size: 100%;
+	background-repeat: no-repeat;
 	background-size: cover;
 	max-width: 100%;
 	height: 671px;
