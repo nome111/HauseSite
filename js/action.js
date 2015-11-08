@@ -1,8 +1,9 @@
+//Variável para controle de menu;
 var flag_menu;
 
 $(document).ready(function () {
 	flag_menu = false;
-	
+		//verifica  se o width é menor que 767
 	if ($(document).width() < 767) {
 		alert($(document).width());
 		$('#button_menu').click(function (){
@@ -16,11 +17,3 @@ $(document).ready(function () {
 		});
 	};
 });
-
-function getWidthDimension(){
-	return $(document).width();
-}
-
-function getHeightDimension(){
-	return $(document).height();
-}
