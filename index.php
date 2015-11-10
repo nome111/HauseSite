@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -12,7 +13,7 @@
   <!-- Fonte -->
    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,300italic,500,700" rel="stylesheet" type="text/css">
    <!--Imagem topo navegador -->
-   <link rel="shortcut icon" href="/images/pp.png">
+   <link rel="shortcut icon" href="../images/pp.png">
 
   <!-- Jquery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -24,6 +25,9 @@
 </head>
 
 <body>
+<?php 
+  include_once("analyticstracking.php");
+?>
 <section id="home">
   <div class="header">
     <div class="container">
