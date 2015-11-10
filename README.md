@@ -1,3 +1,3 @@
 # HauseSite
 
-Site da Hause.
+Projeto WebSite Startup Hause - Desenvolvido por Geovana Silva e Matheus Galdino
