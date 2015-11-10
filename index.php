@@ -47,7 +47,7 @@
               <li><a href="#">INÍCIO</a></li>
               <li><a href="#">SERVIÇOS</a></li>
               <li><a href="#">CLIENTES</a></li>
-              <li><a href="#contato">CONTATO</a></li>
+              <li><a href="contato.php">CONTATO</a></li>
         <li><a href="https://play.google.com/store/apps/dev?id=4809273991361857537&hl=pt_BR">PLAYSTORE</a></li>
             </ul>
           </div><!--/.nav-collapse -->
