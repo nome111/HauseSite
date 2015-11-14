@@ -1,8 +1,67 @@
 body {
-        font-family: 'Roboto', sans-serif;
-        
+       font-family: 'Roboto', sans-serif;        
 }
 
+/* Section Home*/
+#home{
+	background: url("../images/imagem_mao2.png") center center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 100%;
+	height: 671px;
+}
+
+#logo{
+	margin-top: -15px;
+	width: 60px;
+}
+
+#home_jumbotron{
+	
+	background-color: rgba(255,255,255,0);
+	height: 200px;
+    margin: 0 auto;
+    margin-top: 220px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+#botao_home{
+	border-radius: 10px;
+	color: #fff;
+	text-decoration: none;
+	border: solid #fff;
+	margin-top: -10px;
+	width: 200px;
+}
+
+/* Section 'Objetivo'*/
+
+#objetivo{
+/*	background: url("../images/mac_tec.jpg") center center;*/
+	background-repeat: no-repeat;
+	height: 1000px;
+}
+
+#objetivo_img{
+	width: 100px;
+}
+
+#objetivo_h2{	
+	width: 320px;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#objetivo_head{
+	background: #fff000;
+	margin-top: 50px;
+}
+
+/* Only classes */
 
 .navbar {
     margin-bottom: 0;
@@ -23,37 +82,8 @@ body {
     color: #fff !important;
 }
 
-#logo{
-	margin-top: -15px;
-}
-
-#jumbotron_home{
-	
-	background-color: rgba(255,255,255,0);
-	height: 200px;
-    margin: 0 auto;
-    margin-top: 220px;
-    text-decoration: none;
-    color: #fff;
-}
-
-
-#botao_home{
-	border-radius: 10px;
-	color: #fff;
-	text-decoration: none;
-	border: solid #fff;
-	margin-top: -10px;
-	width: 200px;
-}
-
-
-
-#home{
-	background: url("../images/imagem_mao2.png") center center;
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-size: cover;
-	max-width: 100%;
-	height: 671px;
+.center {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
 }
