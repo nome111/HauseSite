@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -24,13 +25,11 @@
 </head>
 
 <body>
-
 <?php 
   include_once("analyticstracking.php");
 ?>
-
 <section id="home">
-  
+  <div class="header">
     <div class="container">
       <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
@@ -43,13 +42,14 @@
             </button>
             <a class="navbar-brand" href="index.html">
                 <img id="logo" src="images/pp_backup2.png" class="img-rounded" alt="Smiley face">
+                
             </a>
           </div>
 
           <div id="navbar" class="collapse navbar-collapse navbar-right">
             <ul class="nav navbar-nav">
               <li><a href="#">INÍCIO</a></li>
-              <li><a href="#objetivo">SERVIÇOS</a></li>
+              <li><a href="#">SERVIÇOS</a></li>
               <li><a href="#">CLIENTES</a></li>
               <li><a href="contato.php">CONTATO</a></li>
         <li><a href="https://play.google.com/store/apps/dev?id=4809273991361857537&hl=pt_BR">PLAYSTORE</a></li>
@@ -58,9 +58,8 @@
         </div>
       </nav>
     </div><!-- fim do container -->
-  
-
-  <div class="jumbotron jumbotron" id="home_jumbotron">
+  </div><!-- Fim do header -->
+  <div class="jumbotron jumbotron" id="jumbotron_home">
     <div class="container">
       <center><p style="font-size: 40px">Quer um bom serviço? Tá em casa!</p></center>
       <br>
@@ -70,41 +69,5 @@
       </div>        
     </div>
  </section><!-- fim do home -->
-
- <section id="objetivo">
-  <div class="container">
-    
-      <h2 id="objetivo_h2">
-        MI CASA ÉS SU CASA!
-      </h2>
-    
-
-    <div id="objetivo_head">
-      <div class="row">
-        <div class="col-sm-2 col-md-1 col-md-offset-1">
-          <img src='/images/pp.png' class='img-rounded center' alt='Logo' id="objetivo_img"> <p style="background: #f0f0f0; width: 100px; margin-left: 100px;">Hause Group</p>
-        </div>
-        
-        <div class="clearfix visible-md"></div>
-
-        <div class="col-sm-6 col-md-6"><!-- nothing comes here --></div>
-
-        <div class="col-sm-4 col-md-3">
-          <p  style="text-align: right;font-size: 16px;">
-            Criada em 2015, a Hause Group veio com o objetivo de facilitar a comunicação entre homens e tecnologia.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>  
- </section>
-
- <section id="servicos">
-   
- </section>
-
- <section id="contato">
-   
- </section>
 </body>
 </html>
